@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Chart Data of json:
+[
+{ "month": "January", "sales": 7 },
+{"month": "February", "sales": 55 }, 
+{ "month": "March", "sales": 50 },
+{"month": "April", "sales": 55 },
+{"month": "May", "sales": 82 },
+{"month": "June", "sales": 68 },
+{"month": "July", "sales": 38 },
+{"month": "August", "sales": 92},
+{"month": "September", "sales": 54 },
+{ "month": "October", "sales": 60},
+{"month": "November", "sales": 21 },
+ { "month": "December", "sales": 49 }
+]
+
 ## Available Scripts
 
 In the project directory, you can run:
